@@ -20,3 +20,4 @@ autores y desarrolladores:
 Ese sistema es una herramienta que me permite concentrar los reportes actitudinales, de inasistencia y academicos.Autores y Desarrolladores
 dabid suarezhuerta
 >>>>>>> cdf9b23ff085811715cf1448dc9ae46ab934b39a
+>>>>>>> Ejemplo de cambio en el repositorio.
